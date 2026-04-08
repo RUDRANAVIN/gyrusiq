@@ -4,6 +4,6 @@ import react from "@vitejs/plugin-react";
 export default defineConfig({
   plugins: [react()],
   preview: {
-    allowedHosts: ["gyrusiq.onrender.com"]
+    allowedHosts: ["gyrusiq.onrender.com", "gyrusiq.com", "www.gyrusiq.com"]
   }
 });
