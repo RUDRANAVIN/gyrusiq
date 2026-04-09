@@ -3,4 +3,4 @@ Allow: /
 Disallow: /privacy.html
 Disallow: /terms.html
 
-Sitemap: https://www.autogyrus.ca/sitemap.xml
+Sitemap: https://www.gyrusiq.com/sitemap.xml
